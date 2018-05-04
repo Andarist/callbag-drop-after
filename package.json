@@ -1,6 +1,6 @@
 {
   "name": "callbag-drop-after",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "👜 Callbag operator that drops all events after the first event for which predicate returns true.",
   "main": "dist/callbag-drop-after.js",
   "module": "dist/callbag-drop-after.es.js",
